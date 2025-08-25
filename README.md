@@ -58,7 +58,7 @@ After installation, launch Chrome using:
 
 ```
 # From terminal
-google-chrome
+google-chrome-stable
 
 # Or search "Chrome" in Applications menu
 ```
