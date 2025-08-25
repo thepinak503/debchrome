@@ -21,7 +21,7 @@ curl -fsSL v.gd/pinakchrome | sudo sh
 - **Linux Mint**
 - **Pop!_OS**
 - **Elementary OS**
-- Other **APT-based** distributions
+- Other **Debian-based** distributions
 
 ## 📋 Prerequisites
 
