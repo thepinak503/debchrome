@@ -11,6 +11,10 @@ A streamlined installation script that automatically downloads and installs Goog
 ```
 curl -fsSL v.gd/pinakchrome | sudo sh
 ```
+OR
+```
+curl -fsSL https://is.gd/pinakchrome  | sudo sh
+```
 
 > 💡 You will be prompted to enter your password for sudo privileges during installation.
 
